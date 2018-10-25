@@ -1,0 +1,5 @@
+# multiAnimationImageView
+
+项目要求做个登陆背景渐变的效果。
+开始用属性动画来做的。后来发现大才小用了
+使用两个imageview组件组成的一个viewgroup自定义组件，使用帧动画就可以解决。
